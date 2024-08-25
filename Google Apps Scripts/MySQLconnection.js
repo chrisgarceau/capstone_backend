@@ -3,7 +3,7 @@ var server = "sql563.main-hosting.eu";
 var port = 3306;
 var db = "u604220124_mcSmartPark";
 var user = "u604220124_wangs";
-var pwd = "1Rc*Hv!EZ";
+var pwd = "";
 var tableName = "parkingData"
 
 /* Connect to MySQL */
